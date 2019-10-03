@@ -1,1 +1,23 @@
 
+img {
+    height:px;
+    margin-left:570px;
+    border: 8px solid black;
+    
+    
+}
+h1 {
+    text-align:center;
+    background-color:#4da6ff;
+}
+p {
+    font-size: 30px;
+    font-weight:200;
+    color:#ff8533;
+    width:800px;
+    text-align:center;
+    margin-left:550px;
+}
+html {
+    background-color: #ffffe6;
+}
